@@ -1,0 +1,3 @@
+bing-route-api-"Ah1ha8z7d6jaHFMiWaokDWkH_x1Uk733r1PrUFD5rEsbIJlAxXCkSeCkW7DVDh80"
+google dir-api-"AIzaSyDLUTgPh_OsB1K5nKuH91bCCApy0SpadRQ"
+bing speech-api-"041266f53aca429a8b652db98ca3a296"
